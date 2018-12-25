@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Alert Dialog</string>
+    <string name="welcome_to_my_github">Welcome to Custom Alert Dialog Project</string>
+    <string name="button_send">send</string>
+    <string name="error_message">Invalid name!</string>
+    <string name="hint">type a name</string>
+    <string name="try_again">try again</string>
+</resources>
